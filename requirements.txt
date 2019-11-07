@@ -1,0 +1,4 @@
+redis==3.2.1
+QDarkStyle==2.7
+pandas==0.24.2
+PyQt5==5.13.2
